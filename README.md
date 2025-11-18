@@ -4,6 +4,7 @@ Di Python, stack dapat dibuat menggunakan list dengan memanfaatkan .append() unt
 
 Penjelasan Kode
 1. Membuat Stack Kosong
+   
 stack = []
 
 Bagian ini membuat sebuah list kosong yang akan digunakan sebagai stack.
